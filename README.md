@@ -26,4 +26,17 @@ This paper is currently under consideration.
 '''
 1. The FAN model pre-trained on 33 participants can be found [here](https://github.com/deremustapha/VLM-EMG4Gesture/tree/master/code_result/1_FAN_Base_Decoder_33.ipynb).
 2. The model with replacement of the FAN layer pre-trained on 33 participants can be found in [here](https://github.com/deremustapha/VLM-EMG4Gesture/tree/master/code_result/1_EMGNet_Base_Decoder_N.ipynb).
+3. The fine-tuned model results can be found [here](https://github.com/deremustapha/VLM-EMG4Gesture/tree/master/code_result).
 '''
+
+
+## Getting Started
+
+We recommend using the [**Anaconda**](https://www.anaconda.com/) package manager to avoid dependency/reproducibility
+problems.
+
+
+### Data
+
+1. The data used for pre-training the model can be downloaded from [online](https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification).
+2. The new participant dataset can be gotten [here](https://github.com/deremustapha/VLM-EMG4Gesture/tree/master/data)
