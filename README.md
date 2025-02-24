@@ -35,7 +35,7 @@ We recommend using the [**Anaconda**](https://www.anaconda.com/) package manager
 problems.
 
 
-### Data
+## Data
 
 1. The data used for pre-training the model can be downloaded from [online](https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification).
 2. The new participant dataset can be gotten [here](https://github.com/deremustapha/VLM-EMG4Gesture/tree/master/data)
@@ -44,3 +44,21 @@ problems.
 
 ## Setting Up the Paligemma 
 This process can take sometime. Hence we recommend following the instructions from the source [page](https://huggingface.co/blog/paligemma). 
+
+
+## Helper Files
+
+1. Data Preparation
+```sh
+get the from src/data_preparation.py
+```
+
+
+2. Data Preprocessing 
+```sh
+get the from src/preprocessing.py
+```
+
+## Acknowledgements
+
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT), (No. RS-2023-00277220)
