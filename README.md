@@ -19,3 +19,10 @@ If you make use of our work, please cite our paper:
 ```bibtex
 This paper is currently under consideration. 
 ```
+
+
+## Result Presented in the Paper
+
+'''
+1. The FAN model pre-trained on 33 participants can be found in [here]([https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html](https://github.com/deremustapha/VLM-EMG4Gesture/tree/master/code_result)).
+'''
